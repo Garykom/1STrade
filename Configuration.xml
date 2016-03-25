@@ -114,6 +114,13 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Закупки</Subsystem>
+			<Subsystem>Склад</Subsystem>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Финансы</Subsystem>
+			<Subsystem>НСИ</Subsystem>
+			<Subsystem>Администрирование</Subsystem>
+			<Subsystem>Маркетинг</Subsystem>
 			<Catalog>Организации</Catalog>
 			<Catalog>РасчетныеСчета</Catalog>
 			<Catalog>Банки</Catalog>
@@ -135,6 +142,7 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>ВидыКонтактнойИнформации</Catalog>
+			<Catalog>Бренды</Catalog>
 			<Document>ПоступлениеТоваровУслуг</Document>
 			<Document>ПеремещениеТоваров</Document>
 			<Document>РеализацияТоваровУслуг</Document>
